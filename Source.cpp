@@ -30,7 +30,7 @@ int main()
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	tong(5,6);
 	hieu(5,3);
-	tich(2,3);
+	tich(3,5);
 	thuong(10.0,5.0);
 >>>>>>> 06d9becbb8d8520c1cc5f8eee0bee44fc2cbc357
 	system("pause");
